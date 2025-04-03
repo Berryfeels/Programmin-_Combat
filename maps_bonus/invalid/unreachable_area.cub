@@ -1,0 +1,83 @@
+
+
+NO assets/north.xpm
+SO assets/south.xpm
+WE assets/west.xpm
+EA assets/east.xpm
+
+SK assets/Night_Sky.xpm
+F assets/floor.xpm
+
+END assets/final_door.xpm
+G assets/gun.xpm
+GS assets/gun_shut.xpm
+
+Z0 assets/zombie0.xpm
+Z1 assets/zombie1.xpm
+Z2 assets/zombie2.xpm
+
+D1 assets/doors/door_close.xpm
+D2 assets/doors/door_opening1.xpm
+D3 assets/doors/door_opening2.xpm
+D4 assets/doors/door_opening3.xpm
+D5 assets/doors/door_open.xpm
+
+H1 assets/health/h100.xpm
+H2 assets/health/h80.xpm
+H3 assets/health/h60.xpm
+H4 assets/health/h40.xpm
+H5 assets/health/h20.xpm
+
+A6 assets/ammo/am6.xpm
+A5 assets/ammo/am5.xpm
+A4 assets/ammo/am4.xpm
+A3 assets/ammo/am3.xpm
+A2 assets/ammo/am2.xpm
+A1 assets/ammo/am1.xpm
+A0 assets/ammo/am0.xpm
+
+R1 assets/heart/he1.xpm
+R2 assets/heart/he2.xpm
+R3 assets/heart/he3.xpm
+R4 assets/heart/he4.xpm
+R5 assets/heart/he5.xpm
+R6 assets/heart/he6.xpm
+R7 assets/heart/he7.xpm
+R8 assets/heart/he8.xpm
+R9 assets/heart/he9.xpm
+R10 assets/heart/he10.xpm
+R11 assets/heart/he11.xpm
+R12 assets/heart/he12.xpm
+
+CA1 assets/c_ammo/c_ammo1.xpm
+CA2 assets/c_ammo/c_ammo2.xpm
+CA3 assets/c_ammo/c_ammo3.xpm
+CA4 assets/c_ammo/c_ammo4.xpm
+CA5 assets/c_ammo/c_ammo5.xpm
+CA6 assets/c_ammo/c_ammo6.xpm
+CA7 assets/c_ammo/c_ammo7.xpm
+CA8 assets/c_ammo/c_ammo8.xpm
+CA9 assets/c_ammo/c_ammo9.xpm
+CA10 assets/c_ammo/c_ammo10.xpm
+CA11 assets/c_ammo/c_ammo11.xpm
+CA12 assets/c_ammo/c_ammo12.xpm
+
+K1 assets/key/key1.xpm
+K2 assets/key/key2.xpm
+K3 assets/key/key3.xpm
+K4 assets/key/key4.xpm
+K5 assets/key/key5.xpm
+K6 assets/key/key6.xpm
+K7 assets/key/key7.xpm
+
+1111111111
+1N00A000D1
+1H01110001
+1K0100A001
+1H010111F1
+1D010000H1
+1A01110111
+1H0000A111
+1111100101
+1111111111
+

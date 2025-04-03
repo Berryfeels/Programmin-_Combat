@@ -1,0 +1,16 @@
+
+C 52, 174, 235
+
+NO assets/walls/north.xpm
+SO assets/walls/south.xpm
+
+
+F 111, 209, 106
+
+WE           assets/walls/west.xpm
+EA assets/walls/east.xpm
+
+111
+1E1
+111
+
