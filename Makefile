@@ -1,4 +1,4 @@
-CC      = gcc -g
+CC      = cc -g
 CFLAGS  = -Wall -Werror -Wextra
 # Directories
 SRCDIR  = src
@@ -126,8 +126,8 @@ OBJS := $(patsubst $(SRCDIR)/%.c, $(OBJDIR)/%.o, $(SRCS))
 BONUS_OBJS := $(patsubst $(BONUSDIR)/%.c, $(OBJDIR)/%.o, $(BONUS_SRCS))
 
 # Output program names
-NAME = cub3D
-BONUS_NAME = cub3D_bonus
+NAME = ProgCombat_basic
+BONUS_NAME = ProgCombat
 
 # Rules
 
