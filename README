@@ -4,7 +4,7 @@ Programmin' Combat - Raycasting FPS Game
 Cub3D is a Wolfenstein 3D-inspired game that utilizes raycasting to create a pseudo-3D environment. 
 The game features map exploration, sprite interactions, and an interactive minimap.
 
-🛠️ Mandatory Features
+🛠️ Basic Features (compile with <make> or <make all>)
 		✅ Basic Rendering
 		Raycasting-based 3D environment.
 		Wall rendering without collision detection.
@@ -17,7 +17,7 @@ The game features map exploration, sprite interactions, and an interactive minim
 		✅ Map System
 		.cub map file format defines the layout.
 
-✨ Bonus Features
+✨ Full Features (compile with <make bonus> or <make all>)
 	🔹 Enhanced
 		* Skybox texture for a realistic sky rendering ("SK" identifier in .cub file).
 		* Ceiling texture for immersive indoor environments ("C" identifier in .cub file).
@@ -40,14 +40,14 @@ The game features map exploration, sprite interactions, and an interactive minim
 
 	🔹 Objective:
 		* Find the key 🔑.
-		* Unlock the final purple door 🚪.
+		* Unlock the final door 🚪.
 
 🎮 Controls
-Action			Key
-Move Forward	W
-Move Backward	S
+Action:			Key:
+Move Forward	        W
+Move Backward	        S
 Turn Left		A
 Turn Right		D
 Shoot			Left Control
-Door open/close Space
+Door open/close         Space
 Exit Game		ESC
